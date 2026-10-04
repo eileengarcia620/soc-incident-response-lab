@@ -1,0 +1,31 @@
+SOC Detection & Incident Response Home Lab
+===========================================
+
+LAB ENVIRONMENT
+
+Domain: eileenlab.test
+Domain Controller: DC
+DC Internal IP: 172.16.0.1/24
+Windows Client: CLIENT01
+Virtualization: Oracle VirtualBox
+Internal Network: intnet
+
+PROJECT OBJECTIVE
+
+Build a small SOC environment using Wazuh and Windows security telemetry to detect, investigate, and document simulated security incidents.
+
+TOOLS
+
+- Wazuh
+- Windows Event Viewer
+- Sysmon
+- PowerShell
+- Wireshark (when useful)
+
+INCIDENTS
+
+To be documented as the project progresses.
+
+TROUBLESHOOTING
+
+To be documented as issues are encountered.
